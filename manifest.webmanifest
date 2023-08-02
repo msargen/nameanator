@@ -1,0 +1,21 @@
+{
+    "name": "Nameanator",
+    "short_name": "Nameanator",
+    "description": "True name generator",
+  
+    "scope": "/nameanator/",
+    "start_url": "/nameanator/",
+  
+    "background_color": "#808080",
+    "theme_color": "#008000",
+  
+    "display": "standalone", 
+
+    "icons": [
+        {
+          "src": "/nameanator/icon_smile.jpg",
+          "type": "image/jpg",
+          "sizes": "700x700"
+        }
+    ]
+  }
